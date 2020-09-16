@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Mgr">
+      <UniqueIdentifier>{a6bbee66-c4f3-4fc9-a2bd-4d78a816e4f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\StateMgr">
+      <UniqueIdentifier>{d0725ca9-fe7b-44ab-8a7d-5d2ad9f2d6fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic Device">
+      <UniqueIdentifier>{f2239864-3f3e-4d3a-9f22-9c0fb187c8ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Aid Header">
+      <UniqueIdentifier>{a5d08da0-cdb3-4450-889d-36da76221dd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\KeyMgr">
+      <UniqueIdentifier>{718c698a-9c2a-429b-b0d1-e65c5760c80a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\Mouse">
+      <UniqueIdentifier>{7710cbde-95f1-4d7e-ac17-20825d092aaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\OBJ FAC">
+      <UniqueIdentifier>{063a9625-f33a-4bb4-b565-90a23e519c1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\Language">
+      <UniqueIdentifier>{ef9b9f4e-a7e4-47bc-a4bc-0b2bf34fdfb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\Font">
+      <UniqueIdentifier>{7c59022d-0538-463b-8486-93135bec8801}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\Font\Font">
+      <UniqueIdentifier>{ceecff77-1518-46c3-9b07-0699731d4998}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\Option">
+      <UniqueIdentifier>{c10508cb-9c12-499b-982a-6fd9408ebfee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\Credit">
+      <UniqueIdentifier>{106fbfb7-6bba-4ea8-828c-8d7b0ad50bda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{59c486d7-58cc-4a67-bcf9-d5e43502af9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State">
+      <UniqueIdentifier>{9685ed48-5f95-46f7-9dec-8051b9fc59c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Button">
+      <UniqueIdentifier>{0e046dfb-e682-4006-b4f5-b68844803fd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Button\Menu">
+      <UniqueIdentifier>{4e6169cc-6570-42c7-8b09-1f2d8d022e6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Button\GameSelect">
+      <UniqueIdentifier>{e700e6e0-9603-4c91-9838-bd8fbbf57cca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Draw2D">
+      <UniqueIdentifier>{28cab348-f07b-4b7b-bebb-47f19230ecb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Draw2D\BackGround">
+      <UniqueIdentifier>{405eba9c-260d-41b8-b3b6-344a476f6c38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Draw2D\GameSprite">
+      <UniqueIdentifier>{e1b231eb-7dc1-4ee0-9fef-13d6afcba4d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage">
+      <UniqueIdentifier>{83522283-e10f-4e38-8c51-1dde34439321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\Intro">
+      <UniqueIdentifier>{460158bb-35f3-4576-b0bd-c29492257453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\Menu">
+      <UniqueIdentifier>{f1318ad2-eb55-4d17-adff-607b90b4ea86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\Select">
+      <UniqueIdentifier>{88248b7d-d74c-41de-b9db-981b1e20c51c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\Setting">
+      <UniqueIdentifier>{1cbb0280-c153-40a2-9b08-99a54cd81c7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\GameMode">
+      <UniqueIdentifier>{6b2e8f0a-b3c7-45ff-a69f-a4cfb40efde4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\GameMode\Single">
+      <UniqueIdentifier>{f9e59d68-1ae5-4070-a745-b28ccecd0f29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\GameMode\Multi">
+      <UniqueIdentifier>{580b819b-78c1-4240-975a-1e64027b764f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Object">
+      <UniqueIdentifier>{bfb4045d-4f3d-44de-a7bd-e3e99a24cb0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\GameLoading">
+      <UniqueIdentifier>{3c922394-2a91-4f2f-86ca-add9c889ca8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Button\Single">
+      <UniqueIdentifier>{35082b68-9306-423c-af06-ced6b401ac1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Kit">
+      <UniqueIdentifier>{c4a482e7-3867-4096-b076-a447c94604d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Kit\ListBox">
+      <UniqueIdentifier>{221bfce9-a1f8-4618-a59f-4624efa81a97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\DXInput">
+      <UniqueIdentifier>{1dcb1a0f-eae8-42bf-a84f-ad6bfadda956}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Kit\ListBox\ItemBox">
+      <UniqueIdentifier>{a47428f9-e1a8-4a6e-9535-b6a357aef098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Stage\GameMode\Single\CraetMap">
+      <UniqueIdentifier>{adaa072e-e401-4e96-af42-d800b15b8a30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Button\Single\CreateMap">
+      <UniqueIdentifier>{fc0e37a9-1876-4253-a1f7-705bfeb35166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\MapData">
+      <UniqueIdentifier>{f1948217-4840-4be1-9f49-921e50ddb331}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Button\Single\CreateMap\OptionButton">
+      <UniqueIdentifier>{971ccbf9-5c8b-47bb-85bd-84b4f5dd5d4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State\Kit\TextBox">
+      <UniqueIdentifier>{cf8df1df-92c0-458e-a5d0-11f9eba74d7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\IME Mgr">
+      <UniqueIdentifier>{8459413c-1f42-4bcd-861d-d335097bf50e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\MapMgr">
+      <UniqueIdentifier>{7e1dad29-d185-4018-a19e-172c342e4497}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Mgr\Noise">
+      <UniqueIdentifier>{965e40bc-eb6e-4f25-aa94-56ed5aa77daa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\Noise\Perlin Noise">
+      <UniqueIdentifier>{ada7a537-d804-4695-a51f-861ecd5ef8f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mgr\Noise\Fractal Noise">
+      <UniqueIdentifier>{285e7dd4-1084-42ee-9938-2affe563b2a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\engine">
+      <UniqueIdentifier>{bfd506fa-b944-494c-bd7a-4e13d0bc89de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\engine\terrain">
+      <UniqueIdentifier>{25359339-4f7a-4a0c-ad72-c25e048bc124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Screen">
+      <UniqueIdentifier>{170ac50c-5c6d-492f-86ae-e21f9c70d2f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\engine\terrain\Mgr">
+      <UniqueIdentifier>{eed64951-b348-410e-bb21-6209eb7e8d5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Character">
+      <UniqueIdentifier>{d7737eec-813d-4b3d-ae15-3635db557dac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Character\Motion">
+      <UniqueIdentifier>{49a32910-b6fe-49ff-a327-d3b22cdc918f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Character\Carmera">
+      <UniqueIdentifier>{9228519f-706b-4a64-b547-be34a5aeee52}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsDevice.cpp">
+      <Filter>Graphic Device</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSprite.cpp">
+      <Filter>State\Draw2D\GameSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawBackGround.cpp">
+      <Filter>State\Draw2D\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>State\Stage\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="StageMgr.cpp">
+      <Filter>Mgr\StateMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>State\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>State\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>Mgr\KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Mgr\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>State\Stage\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuButton.cpp">
+      <Filter>State\Button\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Language.cpp">
+      <Filter>Mgr\Language</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Mgr\Font\Font</Filter>
+    </ClCompile>
+    <ClCompile Include="Option.cpp">
+      <Filter>Mgr\Option</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting.cpp">
+      <Filter>State\Stage\Setting</Filter>
+    </ClCompile>
+    <ClCompile Include="Credit.cpp">
+      <Filter>Mgr\Credit</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSelectButton.cpp">
+      <Filter>State\Button\GameSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSelect.cpp">
+      <Filter>State\Stage\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLoading.cpp">
+      <Filter>State\Stage\GameLoading</Filter>
+    </ClCompile>
+    <ClCompile Include="Single.cpp">
+      <Filter>State\Stage\GameMode\Single</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleButton.cpp">
+      <Filter>State\Button\Single</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBox.cpp">
+      <Filter>State\Kit\ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="DXInput.cpp">
+      <Filter>Mgr\DXInput</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemBox.cpp">
+      <Filter>State\Kit\ListBox\ItemBox</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateMap.cpp">
+      <Filter>State\Stage\GameMode\Single\CraetMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateMapButton.cpp">
+      <Filter>State\Button\Single\CreateMap</Filter>
+    </ClCompile>
+    <ClCompile Include="MapData.cpp">
+      <Filter>Mgr\MapData</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateMapCreateButton.cpp">
+      <Filter>State\Button\Single\CreateMap\OptionButton</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp">
+      <Filter>State\Kit\TextBox</Filter>
+    </ClCompile>
+    <ClCompile Include="ImeMgr.cpp">
+      <Filter>Mgr\IME Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MapMgr.cpp">
+      <Filter>Mgr\MapMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="PerlinNoise.cpp">
+      <Filter>Mgr\Noise\Perlin Noise</Filter>
+    </ClCompile>
+    <ClCompile Include="FractalNoise.cpp">
+      <Filter>Mgr\Noise\Fractal Noise</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>Game\engine\terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScreen.cpp">
+      <Filter>Game\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="VoxelDrawMgr.cpp">
+      <Filter>Game\engine\terrain\Mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Game\Character\Carmera</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Game\Character</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GraphicsDevice.h">
+      <Filter>Graphic Device</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSprite.h">
+      <Filter>State\Draw2D\GameSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Aid Header</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawBackGround.h">
+      <Filter>State\Draw2D\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>State\Stage\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="StageMgr.h">
+      <Filter>Mgr\StateMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>State\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Include.h">
+      <Filter>Aid Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>State\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>Mgr\KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Mgr\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Objfac.h">
+      <Filter>Mgr\OBJ FAC</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>State\Stage\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuButton.h">
+      <Filter>State\Button\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Language.h">
+      <Filter>Mgr\Language</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Mgr\Font\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Option.h">
+      <Filter>Mgr\Option</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h">
+      <Filter>State\Stage\Setting</Filter>
+    </ClInclude>
+    <ClInclude Include="Credit.h">
+      <Filter>Mgr\Credit</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSelectButton.h">
+      <Filter>State\Button\GameSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSelect.h">
+      <Filter>State\Stage\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLoading.h">
+      <Filter>State\Stage\GameLoading</Filter>
+    </ClInclude>
+    <ClInclude Include="Single.h">
+      <Filter>State\Stage\GameMode\Single</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleButton.h">
+      <Filter>State\Button\Single</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBox.h">
+      <Filter>State\Kit\ListBox</Filter>
+    </ClInclude>
+    <ClInclude Include="DXInput.h">
+      <Filter>Mgr\DXInput</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemBox.h">
+      <Filter>State\Kit\ListBox\ItemBox</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateMap.h">
+      <Filter>State\Stage\GameMode\Single\CraetMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateMapButton.h">
+      <Filter>State\Button\Single\CreateMap</Filter>
+    </ClInclude>
+    <ClInclude Include="MapData.h">
+      <Filter>Mgr\MapData</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateMapCreateButton.h">
+      <Filter>State\Button\Single\CreateMap\OptionButton</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>State\Kit\TextBox</Filter>
+    </ClInclude>
+    <ClInclude Include="ImeMgr.h">
+      <Filter>Mgr\IME Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MapMgr.h">
+      <Filter>Mgr\MapMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="PerlinNoise.h">
+      <Filter>Mgr\Noise\Perlin Noise</Filter>
+    </ClInclude>
+    <ClInclude Include="FractalNoise.h">
+      <Filter>Mgr\Noise\Fractal Noise</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Game\engine\terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScreen.h">
+      <Filter>Game\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="VoxelDrawMgr.h">
+      <Filter>Game\engine\terrain\Mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Game\Character\Carmera</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Game\Character</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

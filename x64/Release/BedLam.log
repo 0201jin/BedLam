@@ -1,0 +1,125 @@
+﻿  Camera.cpp
+  Character.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CreateMap.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CreateMapButton.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CreateMapCreateButton.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\CreateMapCreateButton.cpp(75,116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\CreateMapCreateButton.cpp(75,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\CreateMapCreateButton.cpp(80,115): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\CreateMapCreateButton.cpp(80,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Credit.cpp
+  DrawBackGround.cpp
+  DXInput.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Font.cpp
+  FractalNoise.cpp
+  GameLoading.cpp
+  GameScreen.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameSelect.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameSelectButton.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  GameSprite.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\GameSprite.cpp(47,1): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GraphicsDevice.cpp
+  ImeMgr.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ImeMgr.cpp(55,30): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ImeMgr.cpp(64,18): warning C4244: '초기화 중': 'WPARAM'에서 'wchar_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ImeMgr.cpp(83,26): warning C4838: 'WPARAM'에서 'wchar_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ImeMgr.cpp(83,26): warning C4244: '초기화 중': 'WPARAM'에서 'wchar_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ImeMgr.cpp(224,19): warning C4244: '=': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Intro.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ItemBox.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ItemBox.cpp(64,125): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ItemBox.cpp(64,111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ItemBox.cpp(66,127): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ItemBox.cpp(66,112): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ItemBox.cpp(68,134): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ItemBox.cpp(68,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ItemBox.cpp(70,133): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ItemBox.cpp(70,115): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyMgr.cpp
+  컴파일하고 있습니다...
+  Language.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\Language.cpp(50,49): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ListBox.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\ListBox.cpp(98,45): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\Main.cpp(105,13): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\Main.cpp(154,21): warning C4805: '==': 연산에 'WPARAM' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  MapData.cpp
+  MapMgr.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\MapMgr.cpp(30,73): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\MapMgr.cpp(70,31): warning C4244: '=': 'float'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\MapMgr.cpp(207,13): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\MapMgr.cpp(212,13): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\MapMgr.cpp(217,12): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\MapMgr.cpp(218,12): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  Menu.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MenuButton.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Mouse.cpp
+  Obj.cpp
+  Option.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\Option.cpp(24,49): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PerlinNoise.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\PerlinNoise.cpp(8,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Setting.cpp
+  Single.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SingleButton.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage.cpp
+  StageMgr.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Terrain.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\Terrain.cpp(39,73): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\Terrain.cpp(39,70): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\Terrain.cpp(39,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TextBox.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\StageMgr.h(115,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\TextBox.cpp(63,112): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\TextBox.cpp(63,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VoxelDrawMgr.cpp
+Camera.obj : error LNK2001: 확인할 수 없는 외부 기호 D3DXVec3Normalize
+Camera.obj : error LNK2001: 확인할 수 없는 외부 기호 D3DXMatrixLookAtLH
+Camera.obj : error LNK2001: 확인할 수 없는 외부 기호 D3DXMatrixRotationAxis
+Camera.obj : error LNK2001: 확인할 수 없는 외부 기호 D3DXVec3TransformCoord
+CreateMapButton.obj : error LNK2001: 확인할 수 없는 외부 기호 D3DXCreateSprite
+DXInput.obj : error LNK2001: 확인할 수 없는 외부 기호 c_dfDIKeyboard
+DXInput.obj : error LNK2001: 확인할 수 없는 외부 기호 c_dfDIMouse
+DXInput.obj : error LNK2001: 확인할 수 없는 외부 기호 GUID_SysMouse
+DXInput.obj : error LNK2001: 확인할 수 없는 외부 기호 GUID_SysKeyboard
+DXInput.obj : error LNK2001: 확인할 수 없는 외부 기호 IID_IDirectInput8A
+DXInput.obj : error LNK2001: 확인할 수 없는 외부 기호 DirectInput8Create
+Font.obj : error LNK2001: 확인할 수 없는 외부 기호 D3DXCreateFontA
+GameSprite.obj : error LNK2001: 확인할 수 없는 외부 기호 D3DXCreateTextureFromFileExA
+GraphicsDevice.obj : error LNK2001: 확인할 수 없는 외부 기호 Direct3DCreate9
+VoxelDrawMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 D3DXMatrixPerspectiveFovLH
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\x64\Release\BedLam.exe : fatal error LNK1120: 15개의 확인할 수 없는 외부 참조입니다.

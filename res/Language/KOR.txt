@@ -1,0 +1,14 @@
+Menu Start|게임 시작
+Menu Option|환경 설정
+Menu Exit|나가기
+
+GameSelect Single|싱글
+GameSelect Multi|멀티
+GameSelect Back|뒤로가기
+
+SingleMode Back|뒤로가기
+SingleMode CreateMap|맵 생성
+SingleMode DeleteMap|맵 삭제
+
+CreateMap Back|취소
+CreateMap CreateMap|만들기

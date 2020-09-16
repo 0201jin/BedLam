@@ -1,0 +1,9 @@
+﻿  CreateMap.cpp
+C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\MapMgr.h(53,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DInput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  코드를 생성하고 있습니다.
+  1 of 1280 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  BedLam.vcxproj -> C:\Users\0201j\Desktop\BedLam\BedLam\BedLam\Release\BedLam.exe
